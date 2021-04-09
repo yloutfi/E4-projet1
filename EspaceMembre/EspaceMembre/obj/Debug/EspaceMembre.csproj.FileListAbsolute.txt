@@ -1,0 +1,64 @@
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\bin\Debug\Espace Membre.exe.config
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\bin\Debug\Espace Membre.exe
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\bin\Debug\Espace Membre.pdb
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csprojAssemblyReference.cache
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Inscription.resources
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Properties.Resources.resources
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.GenerateResource.cache
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.CoreCompileInputs.cache
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace Membre.exe
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace Membre.pdb
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Connexion.resources
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\bin\Debug\MySql.Data.dll
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\bin\Debug\MySql.Data.xml
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.CopyComplete
+C:\Users\yloutfi\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Finscription.resources
+F:\Espace Membre\Espace Membre\bin\Debug\Espace Membre.exe.config
+F:\Espace Membre\Espace Membre\bin\Debug\Espace Membre.exe
+F:\Espace Membre\Espace Membre\bin\Debug\Espace Membre.pdb
+F:\Espace Membre\Espace Membre\bin\Debug\MySql.Data.xml
+F:\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csprojAssemblyReference.cache
+F:\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Connexion.resources
+F:\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Finscription.resources
+F:\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Inscription.resources
+F:\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Properties.Resources.resources
+F:\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.GenerateResource.cache
+F:\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.CoreCompileInputs.cache
+F:\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.CopyComplete
+F:\Espace Membre\Espace Membre\obj\Debug\Espace Membre.exe
+F:\Espace Membre\Espace Membre\obj\Debug\Espace Membre.pdb
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csprojAssemblyReference.cache
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Connexion.resources
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Inscription.resources
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Properties.Resources.resources
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.GenerateResource.cache
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.CoreCompileInputs.cache
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace Membre.exe
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace Membre.pdb
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Espace Membre.exe.config
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Espace Membre.exe
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Espace Membre.pdb
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\EspaceMembre.csproj.CopyComplete
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Menu.resources
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Buffers.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Memory.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Text.Json.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.ValueTuple.dll
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Buffers.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Memory.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Text.Json.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\bin\Debug\System.ValueTuple.xml
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.Information.resources
+C:\Users\Yassin\source\repos\Espace Membre\Espace Membre\obj\Debug\Espace_Membre.InfoComplementaire.resources
