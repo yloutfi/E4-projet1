@@ -30,7 +30,7 @@ Une fois inscrit, nous sommes redirigés vers la page connexion.
 <img src="image/codeconnex.jpeg" width="600"/><br>
 
 
-## Information Personnelle
+## Information
 *** 
 Une fois connecté, le membre peut commencer à saisir des informations le concernant
 
