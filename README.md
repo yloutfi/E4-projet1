@@ -3,6 +3,7 @@
 1. [Presentation](#presentation)
 2. [Inscription](#inscription)
 3. [Connexion](#connexion)
+4. [Information](#information)
 
 
 ## Presentation 
