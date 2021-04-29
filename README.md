@@ -1,7 +1,8 @@
 # <p align="center">Projet1 E4 </p>
 ## Sommaire
 1. [Presentation](#presentation)
-2. [Inscription](#Inscription)
+2. [Inscription](#inscription)
+3. [Connexion](#connexion)
 
 
 ## Presentation 
@@ -11,18 +12,18 @@ Le but de ce projet est de permettre à l'utilisateur de s'inscrire et de se con
 ***
 * Le formulaire d'inscription <br>
 <img src="image/insc.jpeg" width="400"/><br>
-* Vérification si les mots de passes correspondent ou pas 
+* Vérification si les mots de passes correspondent ou pas <br>
 <img src="image/mdptest.jpeg" width="400"/><br>
 * Le code de la page inscription  </br>
-<img src="image/TestInscr.jpeg" width="600"/><br>
+<img src="image/testinscr.jpeg" width="600"/><br>
 
 ## Connexion 
 ***
 Une fois inscrit, nous sommes redirigés vers la page connexion.
 
-* Le formulaire de connexion
+* Le formulaire de connexion <br>
 <img src="image/connex.jpeg" width="450"/><br>
-* Le test de la page de connexion en se référant aux éléments de la BDD
+* Le test de la page de connexion en se référant aux éléments de la BDD <br>
 <img src="image/testconne.jpeg" width="400"/><br>
 * Le code de la page connexion  </br>
 <img src="image/codeconnex.jpeg" width="600"/><br>
@@ -32,7 +33,7 @@ Une fois inscrit, nous sommes redirigés vers la page connexion.
 *** 
 Une fois connecté, le membre peut commencer à saisir des informations le concernant
 
-* Le formulaire d'informations personnelle
+* Le formulaire d'informations personnelle <br>
 <img src="image/info.jpeg" width="500"/><br>
 
 *Lorsque la personne a entré ses informations, je voudrais lui faire une richTextBox avec un récapitulatif de ses informations puis qu'elle valide si ça lui semble correct ou  de modifier en cas d'erreur*
