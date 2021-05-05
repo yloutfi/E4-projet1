@@ -1,0 +1,26 @@
+@startuml
+class user{
+    <u>idUser 
+    nom
+    prenom
+    mail 
+    password
+}
+
+class information{
+    <u>idInfo
+    idUser
+    rue 
+    ville
+    codePostal
+    dateCreation
+}
+class formation{
+    <u>idFormation
+    libelle
+    prix
+}
+user "1..1" -- "0..1"  information: supplémenter
+user "1..3" - "1..1" formation: posséder
+
+@enduml
